@@ -18,6 +18,7 @@
 ## Tema 1 Introducción a la Teoría de Lenguajes Formales.
 
 Identifica los conceptos de lenguajes formales para comprender las fases de un compilador y traductor.
+
 <center>
 
 ### Actividades

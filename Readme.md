@@ -1,4 +1,4 @@
-# Lenguajes Automatas
+# Lenguajes Autómatas
 
 ¡Hola! <br>Bienvenido al repositorio de Ema, lugar donde se guardan cosas increibles fuera de tu imaginación.
 
@@ -11,7 +11,7 @@
 - [Tema 5](#tema-5-análisis-sintáctico)
 - [Tema 6](#tema-6-máquinas-de-turing)
 
-## Informacion
+## Información
 
 ¡Hola! Este es mi repositorio, aqui se encuentran mis actividades sobre la materia de Lenguajes Automatas, si quieres puedes entrar y echarle un ojo.  
 

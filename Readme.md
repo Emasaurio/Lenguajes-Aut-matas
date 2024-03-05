@@ -26,7 +26,7 @@ Identifica los conceptos de lenguajes formales para comprender las fases de un c
 | Actividad |  Fecha | 
 |:--------------:|:--------------:|
 | [Tarea 1.1](https://github.com/Emasaurio/Lenguajes-Aut-matas/blob/master/Lenguajes%20Automatas/Tema%201/Actividad%201.1.pdf)    | 1 de Marzo   | 
-| Tarea 1.2    | 4 de Marzo   | 
+| [Tarea 1.2](https://github.com/Emasaurio/Lenguajes-Aut-matas/blob/master/Lenguajes%20Automatas/Tema%201/Actividad%201.2.pdf)    | 4 de Marzo   | 
 | Tarea 1.3    | 6 de Marzo   | 
 </div><br>
 

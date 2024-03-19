@@ -32,6 +32,15 @@ Identifica los conceptos de lenguajes formales para comprender las fases de un c
 
 ## Tema 2 Expresiones Regulares.
 
+<div align=center>
+
+### Actividades
+
+| Actividad |  Fecha | 
+|:--------------:|:--------------:|
+| [Tarea 1.2](https://github.com/Emasaurio/Lenguajes-Aut-matas/blob/master/Lenguajes%20Automatas/Tema%201/Actividad%201.1.pdf)    | 19 de Marzo   | 
+</div><br>
+
 ## Tema 3 Autómatas Finitos.
 
 ## Tema 4 Análisis Léxico.

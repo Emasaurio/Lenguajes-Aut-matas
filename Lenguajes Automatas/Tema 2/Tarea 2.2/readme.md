@@ -20,6 +20,10 @@ En esta práctica se realizó un Bot en Telegram con ayuda del lenguaje Python, 
 
 ## Capturas de Ejecución
 
-
-
-
+<img src="Capturas/Ejecucion 1.jpeg">
+<br>
+<br>
+<br>
+<div>
+<img src="Capturas/Ejecucion 2.jpeg">
+</div>

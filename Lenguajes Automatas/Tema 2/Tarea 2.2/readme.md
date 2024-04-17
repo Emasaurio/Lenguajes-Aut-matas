@@ -19,11 +19,9 @@ En esta práctica se realizó un Bot en Telegram con ayuda del lenguaje Python, 
 <img src="Capturas/ER Aviso.PNG">
 
 ## Capturas de Ejecución
-
+<div align=center>
 <img src="Capturas/Ejecucion 1.jpeg">
 <br>
 <br>
 <br>
-<div>
 <img src="Capturas/Ejecucion 2.jpeg">
-</div>
